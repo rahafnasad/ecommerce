@@ -1,6 +1,6 @@
 import React from 'react'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
-import {router} from './layouts/routes.jsx'
+import {router} from './layouts/RRoutes.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.js'
 
