@@ -1,0 +1,53 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+.navbar {
+    background-color: rgb(7, 7, 19) !important;
+    color: rgb(255, 255, 255)!important;
+    border-bottom: 1px solid white;
+
+    
+}
+.nav-item a,.navbar-brand {
+    color: rgb(255, 255, 255)!important;
+
+}
+
+.navbar-brand , h2,.form-label,.submit {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+body{
+    background-color: rgb(253, 229, 167);
+    background-image: url(../public/d3ac555effe094dd590384293267349f.png
+    
+    );
+    background-position:center;
+    background-size: cover;
+}
+.logo {
+    width: 35px;
+    height:40px;
+}
+.register{
+    border: 1px dashed rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+   padding: 25px 0 ;
+   width: 40%;
+
+
+}
+.input-reg{
+    border: 1px solid rgb(38, 38, 97)  ;
+    background-color: rgb(231, 231, 231);
+
+}
+.w-245{
+    width: 245px;
+
+}
+.submit{
+    width: 200px;
+    background-color:rgb(7, 7, 19) ;
+    color: white;
+    align-items: center;
+}
