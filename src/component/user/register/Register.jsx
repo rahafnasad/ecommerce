@@ -1,7 +1,7 @@
 import React from "react";
 import Input from "../../shared/Input.jsx";
 import { useFormik } from "formik";
-import { registerSchema } from "../validation/validaRegister";
+import { registerSchema } from "../validation/validaRegister.js";
 import { toast } from "react-toastify";
 import axios from "axios";
 
